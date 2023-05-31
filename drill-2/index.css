@@ -1,3 +1,16 @@
+/* Lukas mainly used tags as opposed to divs */
+/* Lukas used IDs instead of classes for each element */
+
+/* Lukas opted to make the body itself the container, which simplifies spacing */
+
+/* He gave it a flex direction of column and let the flex row of each box place elements side by side */
+    /* this is how he got the purple rectangle to be shorter */
+
+/* main container has default flex direction of flex-start */
+    /* He makes the spaces between the shapes w/ the Gap property */
+
+/*  */
+
 .firstContainer{
     display:flex;
     justify-content: space-around;

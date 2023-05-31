@@ -1,3 +1,8 @@
+/* Lukas handled the spacing using flex: num to determine screen space*/
+
+/* flex 1 for the gray boxes, flex 8 for the white center */
+    /* each grey line takes 10% of width, white space takes 80% */
+
 .greyBars {
     display:flex;
     width: 100%;
